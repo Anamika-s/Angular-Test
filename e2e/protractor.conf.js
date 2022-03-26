@@ -13,7 +13,7 @@ exports.config = {
     './src/**/*.e2e-spec.ts'
   ],
   capabilities: {
-    browserName: 'chrome'
+    browserName: 'Edge'
   },
   directConnect: true,
   SELENIUM_PROMISE_MANAGER: false,
